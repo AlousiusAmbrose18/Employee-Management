@@ -141,10 +141,10 @@
                     <p>${invalid}</p>
                 </div>
                 <div>
-                    <input type="text" name="adminName" placeholder="User Name" />
+                    <input type="text" name="adminName" placeholder="User Name : Alousius" />
                 </div>
                 <div>
-                    <input type="password" name="password" placeholder="Password" />
+                    <input type="password" name="password" placeholder="Password : 12345" />
                 </div>
                 <div>
                     <a class="forgot" href="#">Forgot password?</a>
